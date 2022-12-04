@@ -1,3 +1,10 @@
+# References
+
+- [Creating a React App… From Scratch.
+](https://medium.com/@JedaiSaboteur/creating-a-react-app-from-scratch-f3c693b84658)
+
+# Dependencies
+
 - `@babel/core`
 
   main babel package — We need this for babel to do any transformations on our code. 
