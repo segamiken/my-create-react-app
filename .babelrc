@@ -1,0 +1,4 @@
+{
+  // Here, we’re telling babel that we’re going to use the env and react presets.
+  "presets": ["@babel/env", "@babel/preset-react"]
+}
