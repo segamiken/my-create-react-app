@@ -8,3 +8,14 @@
 
   preset-react and preset-env are both presets that transform specific flavors of code — in this case, the env preset allows us to transform ES6+ into more traditional javascript and the react preset does the same, but with JSX instead.
 
+- `webpack`
+
+- `webpack-cli`
+
+- `webpack-dev-server`
+
+- `babel-loader`
+
+- `style-loader`
+
+- `css-loader`
